@@ -4,7 +4,12 @@ pass: gS@E3r@xaMSKx$7
 
 username: BreakTheCage
 pass: gS@E3r@xaMSKx$7
+pass: gS%40E3r%40xaMSKx%247
 
 Connecting: mongodb+srv://BreakTheCage:<password>@cluster0-3lun8.mongodb.net/test?retryWrites=true&w=majority
 ===============================================================
 Connecting: mongodb+srv://BreakTheCage:gS@E3r@xaMSKx$7@cluster0-3lun8.mongodb.net/test?retryWrites=true&w=majority
+Connecting: mongodb+srv://BreakTheCage:gS%40E3r%40xaMSKx%247@cluster0-3lun8.mongodb.net/shop?retryWrites=true&w=majority
+
+==========================================
+$ npm i --save mongoose
